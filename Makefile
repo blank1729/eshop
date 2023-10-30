@@ -1,0 +1,2 @@
+client:
+	bun run dev
